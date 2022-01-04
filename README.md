@@ -6,6 +6,7 @@
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://toitoitoi79.tistory.com/)](https://reliablecho-programming.tistory.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungeon-j-109950191/)](https://www.linkedin.com/in/yoonhyeokjo1010/)
+
 📜[이력서 보기](https://www.notion.so/Jo-Yun-Hyeok-ed4073e088bd4837890919199242ef8e)
 
 <!-- - [이력서(Resume)](노션링크)
