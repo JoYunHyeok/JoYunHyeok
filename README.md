@@ -1,5 +1,5 @@
 ### Hi there 👋 
-- 🔭 I’m currently studying at 삼성청년SW아카데미 7기<br><br>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoYunHyeok&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![YunHyeok's github stats](https://github-readme-stats.vercel.app/api?username=JoYunHyeok&show_icons=true)
@@ -12,6 +12,7 @@
 
 📜[이력서 보기](https://www.notion.so/Jo-Yun-Hyeok-ed4073e088bd4837890919199242ef8e)
 
+- 🔭 I’m currently studying at 삼성청년SW아카데미 7기<br><br>
 <!-- - [이력서(Resume)](노션링크)
 - [프로젝트(Project)](노션링크)
  -->
