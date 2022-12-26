@@ -7,7 +7,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whfprl1010)](https://solved.ac/whfprl1010)
 
 
-[blog & linkedin] <
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://toitoitoi79.tistory.com/)](https://reliablecho-programming.tistory.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungeon-j-109950191/)](https://www.linkedin.com/in/yoonhyeokjo1010/)
 <!-- 링크드인 수정 후 올리기 -->
